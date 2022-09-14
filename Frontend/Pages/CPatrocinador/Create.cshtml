@@ -1,0 +1,60 @@
+﻿@page
+@model Frontend.Pages.CPatrocinador.CreateModel
+@{
+    ViewData["Title"]="Crear Patrocinador";
+}
+
+<h2>Adicionar Patrocinador</h2>
+<h3 class="text-danger">@ViewData["Error"]</h3>
+
+<div class="form-horizontal">
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <form method="post">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="form-group">
+                    <label asp-for="Patrocinador.Documento" class="control-label"> </label>
+                    <input asp-for="Patrocinador.Documento" class="form-control" />
+                    <span asp-validation-for="Patrocinador.Documento" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Patrocinador.Nombres" class="control-label"> </label>
+                    <input asp-for="Patrocinador.Nombres" class="form-control" />
+                    <span asp-validation-for="Patrocinador.Nombres" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Patrocinador.Tipo" class="control-label"> </label>
+                    <select asp-for="Patrocinador.Tipo" class="form-control">
+                        <option value="">--Selecionar--</option>
+                        <option value="Natural">Natural</option>
+                        <option value="Juridica">Juridica</option>
+                    </select>
+                    <span asp-validation-for="Patrocinador.Tipo" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Patrocinador.Direccion" class="control-label"> </label>
+                    <input asp-for="Patrocinador.Direccion" class="form-control" />
+                    <span asp-validation-for="Patrocinador.Direccion" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Patrocinador.Telefono" class="control-label"> </label>
+                    <input asp-for="Patrocinador.Telefono" class="form-control" />
+                    <span asp-validation-for="Patrocinador.Telefono" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <input type="submit" value="Crear"  class="btn btn-success"/>
+                    <a asp-page="Index" class="btn btn-info">Cancelar </a>
+                </div>
+
+            </form>
+        </div>
+    </div>
+</div>
+
