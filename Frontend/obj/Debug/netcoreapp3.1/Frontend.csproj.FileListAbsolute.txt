@@ -194,3 +194,5 @@ C:\universidad de caldas\misionTic\2022\ciclo3\Grupo30\Eventos\Aplicacion\Fronte
 C:\universidad de caldas\misionTic\2022\ciclo3\Grupo30\Eventos\Aplicacion\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Frontend.StaticWebAssets.Manifest.cache
 C:\universidad de caldas\misionTic\2022\ciclo3\Grupo30\Eventos\Aplicacion\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Frontend.StaticWebAssets.xml
 C:\universidad de caldas\misionTic\2022\ciclo3\Grupo30\Eventos\Aplicacion\Frontend\obj\Debug\netcoreapp3.1\Frontend.genruntimeconfig.cache
+C:\universidad de caldas\misionTic\2022\ciclo3\Grupo30\Eventos\Aplicacion\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\CEntrenador\Create.cshtml.g.cs
+C:\universidad de caldas\misionTic\2022\ciclo3\Grupo30\Eventos\Aplicacion\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\CEntrenador\Index.cshtml.g.cs
