@@ -22,7 +22,7 @@ namespace Persistencia
             if(!optionsBuilder.IsConfigured)
             {
                 optionsBuilder.UseSqlServer("Data Source=(localdb)\\MSSQLLocalDB; Initial Catalog=Eventos30");
-                //optionsBuilder.UseSqlServer("Data Source=DESKTOP-O7NPTHS\\SQLEXPRESS; Initial Catalog=Eventos30; Integrated Security=True");
+                
             }
         }
 
