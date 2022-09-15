@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\universidad de caldas\\misionTic\\2022\\ciclo3\\Grupo30\\Eventos\\Aplicacion\\Persistencia\\Persistencia.csproj": {}
+    "C:\\Asp.Net Web Blazor\\Asp.Net Torneo\\torneo\\Persistencia\\Persistencia.csproj": {}
   },
   "projects": {
-    "C:\\universidad de caldas\\misionTic\\2022\\ciclo3\\Grupo30\\Eventos\\Aplicacion\\Dominio\\Dominio.csproj": {
+    "C:\\Asp.Net Web Blazor\\Asp.Net Torneo\\torneo\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\universidad de caldas\\misionTic\\2022\\ciclo3\\Grupo30\\Eventos\\Aplicacion\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Asp.Net Web Blazor\\Asp.Net Torneo\\torneo\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\universidad de caldas\\misionTic\\2022\\ciclo3\\Grupo30\\Eventos\\Aplicacion\\Dominio\\Dominio.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\universidad de caldas\\misionTic\\2022\\ciclo3\\Grupo30\\Eventos\\Aplicacion\\Dominio\\obj\\",
+        "projectPath": "C:\\Asp.Net Web Blazor\\Asp.Net Torneo\\torneo\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\Ferney\\.nuget\\packages\\",
+        "outputPath": "C:\\Asp.Net Web Blazor\\Asp.Net Torneo\\torneo\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ferney\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,21 +59,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.423\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\universidad de caldas\\misionTic\\2022\\ciclo3\\Grupo30\\Eventos\\Aplicacion\\Persistencia\\Persistencia.csproj": {
+    "C:\\Asp.Net Web Blazor\\Asp.Net Torneo\\torneo\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\universidad de caldas\\misionTic\\2022\\ciclo3\\Grupo30\\Eventos\\Aplicacion\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "C:\\Asp.Net Web Blazor\\Asp.Net Torneo\\torneo\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "C:\\universidad de caldas\\misionTic\\2022\\ciclo3\\Grupo30\\Eventos\\Aplicacion\\Persistencia\\Persistencia.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\universidad de caldas\\misionTic\\2022\\ciclo3\\Grupo30\\Eventos\\Aplicacion\\Persistencia\\obj\\",
+        "projectPath": "C:\\Asp.Net Web Blazor\\Asp.Net Torneo\\torneo\\Persistencia\\Persistencia.csproj",
+        "packagesPath": "C:\\Users\\Ferney\\.nuget\\packages\\",
+        "outputPath": "C:\\Asp.Net Web Blazor\\Asp.Net Torneo\\torneo\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ferney\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -86,8 +86,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\universidad de caldas\\misionTic\\2022\\ciclo3\\Grupo30\\Eventos\\Aplicacion\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\universidad de caldas\\misionTic\\2022\\ciclo3\\Grupo30\\Eventos\\Aplicacion\\Dominio\\Dominio.csproj"
+              "C:\\Asp.Net Web Blazor\\Asp.Net Torneo\\torneo\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Asp.Net Web Blazor\\Asp.Net Torneo\\torneo\\Dominio\\Dominio.csproj"
               }
             }
           }
@@ -132,12 +132,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "NETStandard.Library.Ref",
+              "version": "[2.1.0, 2.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "NETStandard.Library": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.423\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -5800,19 +5800,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DELL\\.nuget\\packages\\": {}
+    "C:\\Users\\Ferney\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\universidad de caldas\\misionTic\\2022\\ciclo3\\Grupo30\\Eventos\\Aplicacion\\consola\\Consola.csproj",
+      "projectUniqueName": "C:\\Asp.Net Web Blazor\\Asp.Net Torneo\\torneo\\Consola\\Consola.csproj",
       "projectName": "Consola",
-      "projectPath": "C:\\universidad de caldas\\misionTic\\2022\\ciclo3\\Grupo30\\Eventos\\Aplicacion\\consola\\Consola.csproj",
-      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\universidad de caldas\\misionTic\\2022\\ciclo3\\Grupo30\\Eventos\\Aplicacion\\consola\\obj\\",
+      "projectPath": "C:\\Asp.Net Web Blazor\\Asp.Net Torneo\\torneo\\Consola\\Consola.csproj",
+      "packagesPath": "C:\\Users\\Ferney\\.nuget\\packages\\",
+      "outputPath": "C:\\Asp.Net Web Blazor\\Asp.Net Torneo\\torneo\\Consola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ferney\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5825,11 +5825,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\universidad de caldas\\misionTic\\2022\\ciclo3\\Grupo30\\Eventos\\Aplicacion\\Dominio\\Dominio.csproj": {
-              "projectPath": "C:\\universidad de caldas\\misionTic\\2022\\ciclo3\\Grupo30\\Eventos\\Aplicacion\\Dominio\\Dominio.csproj"
+            "C:\\Asp.Net Web Blazor\\Asp.Net Torneo\\torneo\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\Asp.Net Web Blazor\\Asp.Net Torneo\\torneo\\Dominio\\Dominio.csproj"
             },
-            "C:\\universidad de caldas\\misionTic\\2022\\ciclo3\\Grupo30\\Eventos\\Aplicacion\\Persistencia\\Persistencia.csproj": {
-              "projectPath": "C:\\universidad de caldas\\misionTic\\2022\\ciclo3\\Grupo30\\Eventos\\Aplicacion\\Persistencia\\Persistencia.csproj"
+            "C:\\Asp.Net Web Blazor\\Asp.Net Torneo\\torneo\\Persistencia\\Persistencia.csproj": {
+              "projectPath": "C:\\Asp.Net Web Blazor\\Asp.Net Torneo\\torneo\\Persistencia\\Persistencia.csproj"
             }
           }
         }
@@ -5865,7 +5865,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.422\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
       }
     }
   }

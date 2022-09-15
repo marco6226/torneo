@@ -16,3 +16,12 @@ C:\universidad de caldas\misionTic\2022\ciclo3\Grupo30\Eventos\Aplicacion\Domini
 C:\universidad de caldas\misionTic\2022\ciclo3\Grupo30\Eventos\Aplicacion\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CoreCompileInputs.cache
 C:\universidad de caldas\misionTic\2022\ciclo3\Grupo30\Eventos\Aplicacion\Dominio\obj\Debug\netstandard2.0\Dominio.dll
 C:\universidad de caldas\misionTic\2022\ciclo3\Grupo30\Eventos\Aplicacion\Dominio\obj\Debug\netstandard2.0\Dominio.pdb
+C:\Asp.Net Web Blazor\Asp.Net Torneo\torneo\Dominio\bin\Debug\netstandard2.0\Dominio.deps.json
+C:\Asp.Net Web Blazor\Asp.Net Torneo\torneo\Dominio\bin\Debug\netstandard2.0\Dominio.dll
+C:\Asp.Net Web Blazor\Asp.Net Torneo\torneo\Dominio\bin\Debug\netstandard2.0\Dominio.pdb
+C:\Asp.Net Web Blazor\Asp.Net Torneo\torneo\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfoInputs.cache
+C:\Asp.Net Web Blazor\Asp.Net Torneo\torneo\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfo.cs
+C:\Asp.Net Web Blazor\Asp.Net Torneo\torneo\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Asp.Net Web Blazor\Asp.Net Torneo\torneo\Dominio\obj\Debug\netstandard2.0\Dominio.dll
+C:\Asp.Net Web Blazor\Asp.Net Torneo\torneo\Dominio\obj\Debug\netstandard2.0\Dominio.pdb
+C:\Asp.Net Web Blazor\Asp.Net Torneo\torneo\Dominio\obj\Debug\netstandard2.0\Dominio.csprojAssemblyReference.cache
