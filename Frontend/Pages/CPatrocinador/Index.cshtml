@@ -6,11 +6,11 @@
 
 <h1>Listado de Patrocinadores</h1>
     <p>
-        <a asp-page="Create" class="btn btn-success">Crear Patrocinador</a>
+        <a asp-page="Create" class="btn btn-info">Crear Patrocinador</a>
     </p>
 
-    <table class="table">
-        <thead>
+    <table class="table table-striped">
+        <thead class="table-dark">
             <tr>
                 <th>Documento</th>
                 <th>Nombres</th>
@@ -26,7 +26,7 @@
                     <td>@pat.Nombres</td>
                     <td>@pat.Tipo</td>
                     <td>
-                        <a asp-page="./Edit" class="btn btn-primary" asp-route-id="@pat.Id">Edit</a>
+                        <a asp-page="./Edit" class="btn btn-secondary" asp-route-id="@pat.Id">Edit</a>
                         <a asp-page="./Details" class="btn btn-warning" asp-route-id="@pat.Id">Details</a>
                         <a asp-page="./Delete" class="btn btn-danger" asp-route-id="@pat.Id">Delete</a>
                     </td>

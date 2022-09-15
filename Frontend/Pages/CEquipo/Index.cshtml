@@ -6,11 +6,11 @@
 
 <h1>Listado de Equipos</h1>
     <p>
-        <a asp-page="Create" class="btn btn-success">Crear Equipo</a>
+        <a asp-page="Create" class="btn btn-info">Crear Equipo</a>
     </p>
 
     <table class="table">
-        <thead>
+        <thead class="table-dark">
             <tr>
                 <th>Nombre</th>
                 <th>Modalidad</th>
@@ -25,7 +25,7 @@
                     <td>@equ.Modalidades</td>
                     <td>@equ.Patrocinador</td>
                     <td>
-                        <a asp-page="./Edit" class="btn btn-primary" asp-route-id="@equ.Id">Edit</a>
+                        <a asp-page="./Edit" class="btn btn-secondary" asp-route-id="@equ.Id">Edit</a>
                         <a asp-page="./Details" class="btn btn-warning" asp-route-id="@equ.Id">Details</a>
                         <a asp-page="./Delete" class="btn btn-danger" asp-route-id="@equ.Id">Delete</a>
                     </td>
