@@ -42,7 +42,7 @@ namespace Persistencia
             return patrocinador;
         }
 
-        public Patrocinador BuscarPatrocinadorD(string doc)
+        public Patrocinador BuscarPatrocinadorD(string doc)  // Eror ortografia
         {
             Patrocinador patrocinador= _appContext.Patrocinadores.FirstOrDefault(p=> p.Documento== doc);
             return patrocinador;

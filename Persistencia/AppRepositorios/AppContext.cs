@@ -14,6 +14,7 @@ namespace Persistencia
         public DbSet<Equipo> Equipos {get;set;}
         public DbSet<Entrenador> Entrenadores {get;set;}
         public DbSet<TorneoEquipo> TorneoEquipos {get;set;}
+        public DbSet<Arbitro> Arbitros {get;set;}
 
         //<crear la conexion con la base de datos
 

@@ -19,10 +19,5 @@ namespace Dominio
         public string Fixture {get;set;}
         //Relacion con Municipio       
         public string Municipio {get;set;}
-       
-
-        
-
-
     }
 }

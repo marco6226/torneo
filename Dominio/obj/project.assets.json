@@ -285,11 +285,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Asp.Net Web Blazor\\Asp.Net Torneo\\torneo\\Dominio\\Dominio.csproj",
+      "projectUniqueName": "C:\\Asp.Net Web Blazor\\Torneo Deportivo\\Dominio\\Dominio.csproj",
       "projectName": "Dominio",
-      "projectPath": "C:\\Asp.Net Web Blazor\\Asp.Net Torneo\\torneo\\Dominio\\Dominio.csproj",
+      "projectPath": "C:\\Asp.Net Web Blazor\\Torneo Deportivo\\Dominio\\Dominio.csproj",
       "packagesPath": "C:\\Users\\Ferney\\.nuget\\packages\\",
-      "outputPath": "C:\\Asp.Net Web Blazor\\Asp.Net Torneo\\torneo\\Dominio\\obj\\",
+      "outputPath": "C:\\Asp.Net Web Blazor\\Torneo Deportivo\\Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ferney\\AppData\\Roaming\\NuGet\\NuGet.Config",

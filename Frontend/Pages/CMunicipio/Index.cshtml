@@ -14,6 +14,7 @@
             <tr>
                 <th>Id</th>
                 <th>Nombre</th>
+                <th></th>
             </tr>
         </thead>
         <tbody>
@@ -23,9 +24,9 @@
                     <td>@mun.Id</td>
                     <td>@mun.Nombre</td>
                     <td>
-                        <a asp-page="./Edit" class="btn btn-secondary" asp-route-id="@mun.Id">Edit</a>
-                        <a asp-page="./Details" class="btn btn-warning" asp-route-id="@mun.Id">Details</a>
-                        <a asp-page="./Delete" class="btn btn-danger" asp-route-id="@mun.Id">Delete</a>
+                        <a asp-page="./Edit" class="btn btn-secondary" asp-route-id="@mun.Id">Editar</a>
+                        <a asp-page="./Details" class="btn btn-warning" asp-route-id="@mun.Id">Detalles</a>
+                        <a asp-page="./Delete" class="btn btn-danger" asp-route-id="@mun.Id">Eliminar</a>
                     </td>
                 </tr>
             }

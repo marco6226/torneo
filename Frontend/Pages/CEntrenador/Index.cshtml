@@ -6,16 +6,17 @@
 
 <h1>Listado de Entrenadores</h1>
     <p>
-        <a asp-page="Create" class="btn btn-success">Crear Entrenador</a>
+        <a asp-page="Create" class="btn btn-info">Crear Entrenador</a>
     </p>
 
-    <table class="table">
-        <thead>
+    <table class="table table-striped">
+        <thead class="table-dark">
             <tr>
                 <th>Documento</th>
                 <th>Nombres</th>
                 <th>Apellidos</th>
-                <th>Equipo</th>              
+                <th>Equipo</th>
+                <th></th>              
             </tr>
         </thead>
         <tbody>
@@ -27,13 +28,13 @@
                     <td>@ent.Apellidos</td>
                     <td>@ent.Equipo</td>
                     <td>
-                        <a asp-page="./Edit" class="btn btn-primary" asp-route-id="@ent.Id">Edit</a>
-                        <a asp-page="./Details" class="btn btn-warning" asp-route-id="@ent.Id">Details</a>
-                        <a asp-page="./Delete" class="btn btn-danger" asp-route-id="@ent.Id">Delete</a>
+                        <a asp-page="./Edit" class="btn btn-primary" asp-route-id="@ent.Id">Editar</a>
+                        <a asp-page="./Details" class="btn btn-warning" asp-route-id="@ent.Id">Detalles</a>
+                        <a asp-page="./Delete" class="btn btn-danger" asp-route-id="@ent.Id">Eliminar</a>
                     </td>
                 </tr>
             }
-            
+                        
         </tbody>
     </table>
 

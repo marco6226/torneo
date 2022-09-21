@@ -45,6 +45,5 @@ namespace Dominio
         //llave foranea para la relacion con Equipo      
         [Required(ErrorMessage="Este campo es obligatorio")]
         public int EquipoId {get;set;}
-
     }
 }

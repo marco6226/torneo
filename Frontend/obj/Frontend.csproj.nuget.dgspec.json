@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Asp.Net Web Blazor\\Asp.Net Torneo\\torneo\\Frontend\\Frontend.csproj": {}
+    "C:\\Asp.Net Web Blazor\\Torneo Deportivo\\Frontend\\Frontend.csproj": {}
   },
   "projects": {
-    "C:\\Asp.Net Web Blazor\\Asp.Net Torneo\\torneo\\Dominio\\Dominio.csproj": {
+    "C:\\Asp.Net Web Blazor\\Torneo Deportivo\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Asp.Net Web Blazor\\Asp.Net Torneo\\torneo\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Asp.Net Web Blazor\\Torneo Deportivo\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Asp.Net Web Blazor\\Asp.Net Torneo\\torneo\\Dominio\\Dominio.csproj",
+        "projectPath": "C:\\Asp.Net Web Blazor\\Torneo Deportivo\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\Ferney\\.nuget\\packages\\",
-        "outputPath": "C:\\Asp.Net Web Blazor\\Asp.Net Torneo\\torneo\\Dominio\\obj\\",
+        "outputPath": "C:\\Asp.Net Web Blazor\\Torneo Deportivo\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ferney\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Asp.Net Web Blazor\\Asp.Net Torneo\\torneo\\Frontend\\Frontend.csproj": {
+    "C:\\Asp.Net Web Blazor\\Torneo Deportivo\\Frontend\\Frontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Asp.Net Web Blazor\\Asp.Net Torneo\\torneo\\Frontend\\Frontend.csproj",
+        "projectUniqueName": "C:\\Asp.Net Web Blazor\\Torneo Deportivo\\Frontend\\Frontend.csproj",
         "projectName": "Frontend",
-        "projectPath": "C:\\Asp.Net Web Blazor\\Asp.Net Torneo\\torneo\\Frontend\\Frontend.csproj",
+        "projectPath": "C:\\Asp.Net Web Blazor\\Torneo Deportivo\\Frontend\\Frontend.csproj",
         "packagesPath": "C:\\Users\\Ferney\\.nuget\\packages\\",
-        "outputPath": "C:\\Asp.Net Web Blazor\\Asp.Net Torneo\\torneo\\Frontend\\obj\\",
+        "outputPath": "C:\\Asp.Net Web Blazor\\Torneo Deportivo\\Frontend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ferney\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -86,11 +86,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Asp.Net Web Blazor\\Asp.Net Torneo\\torneo\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Asp.Net Web Blazor\\Asp.Net Torneo\\torneo\\Dominio\\Dominio.csproj"
+              "C:\\Asp.Net Web Blazor\\Torneo Deportivo\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Asp.Net Web Blazor\\Torneo Deportivo\\Dominio\\Dominio.csproj"
               },
-              "C:\\Asp.Net Web Blazor\\Asp.Net Torneo\\torneo\\Persistencia\\Persistencia.csproj": {
-                "projectPath": "C:\\Asp.Net Web Blazor\\Asp.Net Torneo\\torneo\\Persistencia\\Persistencia.csproj"
+              "C:\\Asp.Net Web Blazor\\Torneo Deportivo\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "C:\\Asp.Net Web Blazor\\Torneo Deportivo\\Persistencia\\Persistencia.csproj"
               }
             }
           }
@@ -125,14 +125,14 @@
         }
       }
     },
-    "C:\\Asp.Net Web Blazor\\Asp.Net Torneo\\torneo\\Persistencia\\Persistencia.csproj": {
+    "C:\\Asp.Net Web Blazor\\Torneo Deportivo\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Asp.Net Web Blazor\\Asp.Net Torneo\\torneo\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "C:\\Asp.Net Web Blazor\\Torneo Deportivo\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "C:\\Asp.Net Web Blazor\\Asp.Net Torneo\\torneo\\Persistencia\\Persistencia.csproj",
+        "projectPath": "C:\\Asp.Net Web Blazor\\Torneo Deportivo\\Persistencia\\Persistencia.csproj",
         "packagesPath": "C:\\Users\\Ferney\\.nuget\\packages\\",
-        "outputPath": "C:\\Asp.Net Web Blazor\\Asp.Net Torneo\\torneo\\Persistencia\\obj\\",
+        "outputPath": "C:\\Asp.Net Web Blazor\\Torneo Deportivo\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ferney\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -148,8 +148,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\Asp.Net Web Blazor\\Asp.Net Torneo\\torneo\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Asp.Net Web Blazor\\Asp.Net Torneo\\torneo\\Dominio\\Dominio.csproj"
+              "C:\\Asp.Net Web Blazor\\Torneo Deportivo\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Asp.Net Web Blazor\\Torneo Deportivo\\Dominio\\Dominio.csproj"
               }
             }
           }
